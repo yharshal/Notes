@@ -4,7 +4,7 @@ platform :ios, '13.0'
 target 'Notes' do
   use_frameworks!
     
-    pod 'Amplify', '~> 1.0'
-    pod 'Amplify/Tools', '~> 1.0'
+    pod 'Amplify'
+    pod 'Amplify/Tools'
 
 end

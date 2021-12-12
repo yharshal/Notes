@@ -5,8 +5,8 @@ PODS:
   - Amplify/Tools (1.17.0)
 
 DEPENDENCIES:
-  - Amplify (~> 1.0)
-  - Amplify/Tools (~> 1.0)
+  - Amplify
+  - Amplify/Tools
 
 SPEC REPOS:
   trunk:
@@ -15,6 +15,6 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   Amplify: ec80de81da451636443edf0a910e856d36d28e01
 
-PODFILE CHECKSUM: cb76d82e5130fccf63d91795d7b8ccc873b10368
+PODFILE CHECKSUM: ba73052fc052b0f3cf780873a1d9cc8a181060c0
 
 COCOAPODS: 1.11.2
