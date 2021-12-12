@@ -3,8 +3,10 @@ platform :ios, '13.0'
 
 target 'Notes' do
   use_frameworks!
+  inhibit_all_warnings!
     
     pod 'Amplify'
     pod 'Amplify/Tools'
+    pod 'AmplifyPlugins/AWSCognitoAuthPlugin'
 
 end
